@@ -84,7 +84,7 @@ The data used for this analysis was sourced from historical UPI transaction reco
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   https://github.com/Mrigendra488/UPI-Data-Analysis
 
 Data Preparation
 
